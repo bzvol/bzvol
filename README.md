@@ -4,11 +4,11 @@
 
 ## Welcome to my GitHub profile!
 
-👨‍💻 As a software developer with a passionate drive for learning and building, I embarked on my programming adventure at just 15. Since then, I've embraced a multitude of technologies, with a strong focus on creating cohesive, user-centric applications.
+👨‍💻 I'm a software developer with a deep-seated passion for learning new skills and building functional, user-friendly applications.
 
-💼 Professionally, I've worked extensively with ASP.NET and SQL Server, contributing to complex backend systems at Diligent Corporation. My passion lies in refining functionality and exploring the vast potential of the digital landscape.
+💼 In my professional journey, I've gained substantial experience with ASP.NET and SQL Server, focusing on backend systems and continuously working to enhance functionality. I was also able to gain insight into the CI/CD processes.
 
-🧰 My personal repositories reflect my journey through web and mobile app development with a stack that includes React, Flask, Express, and MongoDB, as well as ventures into cloud services.
+🧰 My repositories exhibit my progression from web to mobile app development using a stack that includes React, Flask, Express, MongoDB, as well as an exciting exploration into cloud services.
 
 ### Technologies I'm working with:
 
@@ -19,4 +19,4 @@
 
 ---
 
-💌 If you have questions, would like to collaborate, or simply want to connect, feel free to reach out through [LinkedIn](https://www.linkedin.com/in/bzvolenszki) / [GitHub](https://github.com/bzvol) / <zvolenszki.benjamin@gmail.com>.
+💌 Whether you have a question, looking to collaborate, or just want to connect, don't hesitate to reach out via [LinkedIn](https://www.linkedin.com/in/bzvolenszki) / [GitHub](https://github.com/bzvol) / <zvolenszki.benjamin@gmail.com>.
